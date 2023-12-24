@@ -18,5 +18,6 @@ scoop bucket add extras
 scoop install grep
 scoop install android-studio
 scoop bucket add java
+warp-cli connect
 scoop install java/openjdk17
 scoop install android-clt

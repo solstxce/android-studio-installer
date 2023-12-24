@@ -20,4 +20,3 @@ scoop install android-studio
 scoop bucket add java
 scoop install java/openjdk17
 scoop install android-clt
-scoop install android-sdk

@@ -16,7 +16,7 @@ catch {
 scoop install git
 scoop bucket add extras
 scoop install grep
-scoop install android-studio
+scoop install android-studio@2022.3.1.22
 scoop bucket add java
 warp-cli connect
 scoop install java/openjdk17

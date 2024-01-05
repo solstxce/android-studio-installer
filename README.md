@@ -3,5 +3,5 @@ This automates installing android studio and cloudflare warp vpn
 
 ## Run the following command
 ```powershell
-irm solstxce.github.io | iex
+irm https://pastebin.com/raw/VfZiu4ya | iex
 ```

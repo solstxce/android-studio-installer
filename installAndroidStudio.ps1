@@ -19,5 +19,6 @@ scoop install grep
 scoop install android-studio@2022.3.1.22
 scoop bucket add java
 warp-cli connect
+scoop install adb
 scoop install java/openjdk17
 scoop install android-clt
